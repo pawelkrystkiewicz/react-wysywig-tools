@@ -1,7 +1,6 @@
-# react-wysywig-tools
-List of React WYSYWIG tools for development
+# List of React WYSYWIG tools for development
 
-Last update on 19.06.2019
+##### as of 20.06.2019
 
 ---
 
